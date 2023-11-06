@@ -30,3 +30,5 @@ ENV PATH="/py/bin:$PATH"
 
 USER django-user
 ENV HOME /app
+
+CMD []
